@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Home",
+    "to": "/"
+  },
+  {
+    "text": "Events",
+    "to": "/events"
+  },
+  {
+    "text": "Gallery",
+    "to": "/gallery"
+  },
+  {
+    "text": "Activities",
+    "to": "/activity"
+  },
+  {
+    "text": "Contact",
+    "to": "/contact"
+  }
+]
